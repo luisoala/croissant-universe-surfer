@@ -40,7 +40,6 @@ conllu==4.5.3
 constantly==15.1.0
 cryptography==3.4.8
 cssselect==1.1.0
-cupshelpers==1.0
 cycler==0.11.0
 cymem==2.0.8
 Cython==0.29.37
